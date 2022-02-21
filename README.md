@@ -10,7 +10,7 @@ Installation:
 4. manage.py migrate
 5. manage.py createsuperuser
 6. manage.py runserver
-7. open the url in browser https://<url>/admin/
+7. open the url in browser https://<host_server_address>/admin/
 8. Login as superuser
 
 Uses:
